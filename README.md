@@ -7,7 +7,7 @@ Projeto de prática do curso FRONT END da Free Code Camp.
 ---
 
 ## Link:
-[https://quiz-live.netlify.app/](https://tributepage-alanturing.netlify.app/)
+https://tributepage-alanturing.netlify.app/
 
 
 
